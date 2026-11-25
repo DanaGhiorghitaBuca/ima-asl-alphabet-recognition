@@ -1,0 +1,21 @@
+# PyTorch is a Python package that provides two high-level features:
+# Tensor computation (like NumPy) with strong GPU acceleration
+# Deep neural networks built on a tape-based autograd system
+torch
+
+
+# The torchvision package consists of popular datasets, model architectures
+# and common image transformations for computer vision.
+torchvision
+
+# NumPy is the fundamental package for scientific computing with Python.
+numpy
+
+# The Python Imaging Library adds image processing capabilities to your Python interpreter.
+pillow
+
+# Is a Python module for machine learning built
+scikit-learn
+
+# Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+matplotlib
